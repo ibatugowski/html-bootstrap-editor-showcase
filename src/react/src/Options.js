@@ -16,7 +16,7 @@ export class Options
             return 'http://devserver/shared/html-bootstrap-editor-showcase/react/build/'; 
         } 
         else{
-            return 'https://sn-recit-formation-a-distance.github.io/html-bootstrap-editor-showcase/';
+            return 'https://ibatugowski.github.io/html-bootstrap-editor-showcase/';
         }
     }
 }
